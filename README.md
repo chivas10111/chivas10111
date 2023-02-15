@@ -7,7 +7,9 @@
 - 📫 How to reach me **nguyenthanhsang20012017@gmail.com**
 
 - 📄 Know about my experiences: 
+
 -I have experience in developing website using ASP.NET Core MVC, HTML, CSS, JS, especially ReactJS.
+
 -Beside, I used to have experience in coding the interface for POS in C++ programming language based on the designer's drawings in a company specializing in providing POS.
 
 - ⚡ Fun fact **I am nts**
