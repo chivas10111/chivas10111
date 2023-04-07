@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm nguyen thanh sang</h1>
 <h3 align="center">A Information System junior student of UIT-VNUHCM.</h3>
-<img align="right" alt="hero" width="400" src="https://scontent.fsgn5-8.fna.fbcdn.net/v/t39.30808-6/313347653_1424012404793730_7160692890714936360_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=rlHzl4TIAaIAX-aSWer&_nc_ht=scontent.fsgn5-8.fna&oh=00_AfBD_imjiI4Ivt8NzKvhwOoZc-iQRIV8sV8fPyVKPUfhag&oe=63F1CF67">
+<img align="right" alt="hero" width="400" src="https://facesoman.com/wp-content/uploads/2019/03/Web-A-Gentleman%E2%80%99s-Code-Black-Suit-White-Shirt-696x417.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chivas10111&label=Profile%20views&color=0e75b6&style=flat" alt="chivas10111" /> </p>
 
