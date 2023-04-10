@@ -12,6 +12,8 @@
 
 -Beside, I used to have experience in coding the interface for POS in C++ programming language based on the designer's drawings in a company specializing in providing POS.
 
+-I just finished the frontend course organized by LikeLion
+
 - ⚡ Fun fact **I am nts**
 
 <h3 align="left">Connect with me:</h3>
