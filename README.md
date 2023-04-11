@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm nguyen thanh sang</h1>
 <h3 align="center">A Information System senior student of UIT-VNUHCM.</h3>
+<h3 align="center">I am frontend developer in Ho Chi Minh City</h3>
 <img align="right" alt="hero" width="400" src="https://facesoman.com/wp-content/uploads/2019/03/Web-A-Gentleman%E2%80%99s-Code-Black-Suit-White-Shirt-696x417.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chivas10111&label=Profile%20views&color=0e75b6&style=flat" alt="chivas10111" /> </p>
