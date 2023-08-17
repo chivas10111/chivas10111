@@ -13,7 +13,8 @@
 
 -Beside, I used to have experience in coding the interface for POS in C++ programming language based on the designer's drawings in a company specializing in providing POS.
 
--I just finished the frontend course organized by LikeLion
+-I finished the frontend course organized by LikeLion.
+-I am a frontend developer intern for Opus Solution company. The technologies I have used while working on projects for the company are ReactJS, AngularJS, HTML, CSS, JS, ASP.NET.
 
 - ⚡ Fun fact **I am nts**
 
