@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm nguyen thanh sang</h1>
-<h3 align="center">A Information System senior student of UIT-VNUHCM.</h3>
 <h3 align="center">I am frontend developer in Ho Chi Minh City</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chivas10111&label=Profile%20views&color=0e75b6&style=flat" alt="chivas10111" /> </p>
 
 - 📫 How to reach me **nguyenthanhsang20012017@gmail.com**
 
-- 📄 Know about my experiences: 
+- 📄 Know about my experiences:
+
+-I have a bachelor's degree in engineering from the University of Information Technology.
 
 -I have experience in developing website using HTML, CSS, JS, TypeScript especially ReactJS.
 
