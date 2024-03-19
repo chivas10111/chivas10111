@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm nguyen thanh sang</h1>
 <h3 align="center">A Information System senior student of UIT-VNUHCM.</h3>
 <h3 align="center">I am frontend developer in Ho Chi Minh City</h3>
-<img align="right" alt="hero" width="400" src="https://facesoman.com/wp-content/uploads/2019/03/Web-A-Gentleman%E2%80%99s-Code-Black-Suit-White-Shirt-696x417.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chivas10111&label=Profile%20views&color=0e75b6&style=flat" alt="chivas10111" /> </p>
 
@@ -9,13 +8,15 @@
 
 - 📄 Know about my experiences: 
 
--I have experience in developing website using ASP.NET Core MVC, HTML, CSS, JS, especially ReactJS.
+-I have experience in developing website using HTML, CSS, JS, TypeScript especially ReactJS.
 
 -Beside, I used to have experience in coding the interface for POS in C++ programming language based on the designer's drawings in a company specializing in providing POS.
 
 -I finished the frontend course organized by LikeLion.
 
 -I am a frontend developer intern for Opus Solution company. The technologies I have used while working on projects for the company are ReactJS, AngularJS, HTML, CSS, JS, ASP.NET.
+
+-I am a frontend developer intern for Nam Phuong Digital Techonology company. The technologies I have used while working on projects for the company are ReactTypescript, Vite, Tailwindcss, Tanstack react-query, Antd, Dayjs, Lodash, MUI,....
 
 - ⚡ Fun fact **I am nts**
 
