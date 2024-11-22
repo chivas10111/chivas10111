@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm nguyen thanh sang</h1>
-<h3 align="center">I am frontend developer in Ho Chi Minh City</h3>
+<h3 align="center">I am a frontend developer and software quality engineer  in Ho Chi Minh City</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chivas10111&label=Profile%20views&color=0e75b6&style=flat" alt="chivas10111" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences:
 
--I have a bachelor's degree in engineering from the University of Information Technology.
+-I have a engineer's degree in Information System from the University of Information Technology.
 
 -I have experience in developing website using HTML, CSS, JS, TypeScript especially ReactJS.
 
@@ -18,6 +18,8 @@
 -I am a frontend developer intern for Opus Solution company. The technologies I have used while working on projects for the company are ReactJS, AngularJS, HTML, CSS, JS, ASP.NET.
 
 -I am a frontend developer intern for Nam Phuong Digital Techonology company. The technologies I have used while working on projects for the company are ReactTypescript, Vite, Tailwindcss, Tanstack react-query, Antd, Dayjs, Lodash, MUI,....
+
+-Now, I am working at IDTEK JSC company as a software quality engineer.
 
 - ⚡ Fun fact **I am nts**
 
